@@ -7,12 +7,12 @@ properties() { '
 kernel.string=LA.UM.8.6.2.r1/Gabrielse Kernel by Gabrielse @ telegram
 do.devicecheck=1
 do.modules=0
-do.systemless=1
+do.systemless=0
 do.cleanup=1
 do.cleanuponabort=1
 device.name1=land
 supported.versions=10
-supported.patchlevels=
+supported.patchlevels=2019-09-
 '; } # end properties
 
 # shell variables
